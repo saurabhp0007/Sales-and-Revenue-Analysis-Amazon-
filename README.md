@@ -9,8 +9,7 @@
 > Data analysts need many tools to gather insights from data. Important tools are listed below.
 
   * **Power BI** : Power BI provides interactive visualizations with self-service business intelligence capabilities, where end users can create dashboards and reports by themselves, without having to depend on anybody.
-    
-  * **Tableau** : Tableau is also a Business Intelligence tool used to analyze and visualize data in an easy format. Tableau allows you to work on a live dataset and spend more time on Data Analysis rather than Data Wrangling.
+
        
   * **Microsoft Excel** : Microsoft Excel is a platform that will help you get better insights into your data. Being one of the most popular tools for Data Analytics, Microsoft Excel provides the users with features such as sharing workbooks, working on the latest version for real-time collaboration, and adding data to Excel directly from a photo, and so on.
                       
